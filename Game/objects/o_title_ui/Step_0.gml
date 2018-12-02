@@ -23,8 +23,8 @@ if o_input.action_one_pressed_ {
 			room_goto(r_world);
 			break;
 		
-		case options.save:
-			
+		case options.credits:
+			show_debug_message("Credits");
 			break;
 		
 		case options.quit:
