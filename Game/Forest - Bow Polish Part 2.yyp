@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "2c2040a1-15e4-44ed-b862-61a754f09d7a",
+            "Value": {
+                "id": "e5d951be-382c-4a5e-a4fa-7cf09c5e7393",
+                "resourcePath": "tilesets\\tile_cottage\\tile_cottage.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "2cfefd0b-f255-4ce6-8394-61ef6760336e",
             "Value": {
                 "id": "77e9d575-7eb6-4997-9a34-3384da62ebfc",
@@ -791,6 +799,14 @@
             }
         },
         {
+            "Key": "69f87443-87fa-4cf3-b558-0a1efa0f2d51",
+            "Value": {
+                "id": "514e185c-cffa-422f-8186-a43626d3d20b",
+                "resourcePath": "sprites\\spr_tile_interior\\spr_tile_interior.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6a174e62-8bb0-4362-84d0-56d0b559dbd5",
             "Value": {
                 "id": "b321e13f-2fb3-41b4-a2e8-2b350d3bcfc2",
@@ -1012,6 +1028,14 @@
                 "id": "219c8d21-e821-4f74-bb4a-9e27374f9ebf",
                 "resourcePath": "objects\\o_pickup\\o_pickup.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ca79007-a8c8-461c-a1e1-3aaae016cd30",
+            "Value": {
+                "id": "79883a66-665c-4d8f-8fd5-d0e63ace1f02",
+                "resourcePath": "sprites\\spr_tile_terrain\\spr_tile_terrain.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1343,6 +1367,14 @@
             }
         },
         {
+            "Key": "b50c9cda-1253-430d-95b4-8c6f42444f84",
+            "Value": {
+                "id": "907a864f-7654-452c-8951-f3ae6e40ac14",
+                "resourcePath": "sprites\\spr_tile_cottage\\spr_tile_cottage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b5b20864-9b29-423d-bb95-4e85f21fe761",
             "Value": {
                 "id": "66c57687-26fa-4709-9614-e6e511db8ab6",
@@ -1396,6 +1428,14 @@
                 "id": "e2afc32d-a340-4a83-88e0-5b484e456292",
                 "resourcePath": "sounds\\a_music\\a_music.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c66298a6-2cd0-461a-9308-4467de7d5e75",
+            "Value": {
+                "id": "bfd93ea6-3414-470f-9ec4-733ee081e2df",
+                "resourcePath": "tilesets\\tile_interior\\tile_interior.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -1459,6 +1499,22 @@
             "Value": {
                 "id": "0c4f9614-ec9d-4081-9909-2b0767ba9c5b",
                 "resourcePath": "sprites\\s_bomb_item\\s_bomb_item.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d2efee5f-4d44-49bb-9102-67a76710d460",
+            "Value": {
+                "id": "da9c9cce-f8db-44b4-ab13-364b1be52ba6",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d3028508-99e2-4f16-8ed9-4180c8ab2133",
+            "Value": {
+                "id": "f615f94c-298b-49c9-8bdd-1520010c517d",
+                "resourcePath": "sprites\\spr_collision\\spr_collision.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1695,6 +1751,14 @@
             }
         },
         {
+            "Key": "ef3e6d0b-a645-4c58-a0f3-fd19362cfa38",
+            "Value": {
+                "id": "88ae0757-579f-4082-baaf-5cc840f9fc80",
+                "resourcePath": "tilesets\\tile_terrain\\tile_terrain.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "ef77c1b8-df25-4f29-adaf-75ac61be0bf4",
             "Value": {
                 "id": "2222e88a-01e1-47d4-bbcf-467848cdcfbf",
@@ -1772,6 +1836,14 @@
                 "id": "d22d9869-7351-415e-9e8c-13de907d308e",
                 "resourcePath": "sprites\\s_small_shadow\\s_small_shadow.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f77a07c6-42f2-4831-9608-b0c15138aa4a",
+            "Value": {
+                "id": "99dfb778-fa68-46e7-b435-fd76342f94a0",
+                "resourcePath": "objects\\obj_collision\\obj_collision.yy",
+                "resourceType": "GMObject"
             }
         },
         {
